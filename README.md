@@ -13,10 +13,6 @@ This project analyzes NFT (Non-Fungible Token) sales data to provide insights in
 ## Table of Contents
 - [Queries](#queries)
 - [Database Schema](#database-schema)
-- [Usage](#usage)
-- [Views](#views)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Queries
 
